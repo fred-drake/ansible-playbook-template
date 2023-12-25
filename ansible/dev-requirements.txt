@@ -1,0 +1,6 @@
+pre-commit
+ansible-lint
+black
+flake8
+passlib
+molecule

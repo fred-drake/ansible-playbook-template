@@ -1,0 +1,15 @@
+---
+all:
+  hosts:
+    host1:
+    host2:
+
+web_servers:
+  hosts:
+    host1:
+    host2:
+
+db_servers:
+  hosts:
+    host3:
+    host4:

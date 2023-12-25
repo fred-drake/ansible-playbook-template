@@ -1,0 +1,6 @@
+---
+- name: Playbook for configuring my site
+  hosts: all
+  become: true
+
+  tasks:

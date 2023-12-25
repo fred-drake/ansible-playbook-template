@@ -1,0 +1,10 @@
+---
+collections:
+  - ansible.posix
+  - community.general
+  - community.docker
+  - ansible.netcommon
+  - community.sops
+  - ansible.utils
+
+roles: []
