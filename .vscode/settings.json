@@ -17,5 +17,7 @@
     "**/roles/**/*.{yml,yaml}": "ansible",
     "**/playbooks/**/*.{yml,yaml}": "ansible"
   },
-  "ansible.python.interpreterPath": "/workspaces/infrastructure/.direnv/python-3.10.0/bin/python"
+  "ansible.python.interpreterPath": ".direnv/python-3.10/bin/python",
+  "ansible.ansible.path": ".direnv/python-3.10/bin/ansible",
+  "ansible.validation.lint.path": ".direnv/python-3.10/bin/ansible-lint"
 }
